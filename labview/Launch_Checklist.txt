@@ -1,0 +1,37 @@
+Telemetry
+	Check sensor readback from launch pad.
+	check sensor readback from igate.
+	Check sensor readback from APRS.net
+	Confirm uplink from telemetry.
+
+SSTV
+	Check camera view via ethernet.
+	Confirm frequency with radio.
+	Check SSTV reception with laptop.
+
+GoPros
+	Verify power on.
+	Verify wifi networks.
+	Verify battery level.
+	Command recording start.
+
+Lift Gas
+	Affix inflator onto the tank.
+	Connect inflator onto the balloon.
+	Connect test load to the balloon.
+	Anchor balloon to the ground.
+	Open tank and begin filling the balloon with helium.
+	Close tank once neutral bouyancy has been achived.
+	Remove inflator and tie off balloon.
+
+Final Checks
+	Conduct launch status poll.
+	 - GoPro
+	 - SSTV
+	 - Crossband Repeater
+	 - Telemetry link
+	 - Lift gas
+	 - Safety
+	Call launch on radio.
+	Release all tethers and grounding weight.
+	
